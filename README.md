@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rasheedhaq
 - 👀 I’m interested in Deep learning
-- 🌱 I’m currently learning and working on time-series prediction (NLP)
-- 💞️ I’m looking to collaborate on deep learning works
+- 🌱 I’m currently learning and working on time-series prediction, NLP
+- 💞️ I’m looking to collaborate on deep-learning works
 
 
 <!---
