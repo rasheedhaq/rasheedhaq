@@ -1,4 +1,4 @@
-# Rasheed Abdul Haq
+# Rasheed Abdul Haq Kozhiparamban
 
 Senior Machine Learning Engineer with a PhD in Deep Learning and 8+ years of experience spanning applied AI research, production ML systems, computer vision, time-series modeling, and LLM-based solutions.
 
