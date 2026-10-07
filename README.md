@@ -56,12 +56,20 @@ Currently working on industrial AI and digital twin initiatives at Chevron Engin
 - Granted patents in virtual sensing and deep learning systems for aquaculture monitoring
 - Built Arogyamitra, an AI medical triage assistant for Telegram
 
+## Selected Projects
+
+- [NammaOpen](https://github.com/rasheedhaq/NammaOpen): local shop discovery MVP with a FastAPI backend.
+- [DLEVS](https://github.com/rasheedhaq/DLEVS): deep learning and virtual sensing research for aquaculture water quality.
+- [Water Quality Prediction](https://github.com/rasheedhaq/Time-series-prediction-with-grid-optimiization-of-Hyperparameters): hybrid deep learning experiments accompanying the IEEE Access paper.
+- [VLC Playlist Manager](https://github.com/rasheedhaq/vlc-playlist-manager): portable M3U playlists for VLC and Android TV using Python.
+
 ## Tech Stack
 
 `Python` `PyTorch` `TensorFlow` `Scikit-Learn` `LangChain` `LlamaIndex` `FAISS` `Pinecone` `Hugging Face` `AWS Bedrock` `Azure` `GCP` `Computer Vision` `NLP` `Time Series` `RAG` `Generative AI`
 
 ## Connect
 
+- Portfolio: [rasheedhaq.github.io](https://rasheedhaq.github.io/)
 - GitHub: [github.com/rasheedhaq](https://github.com/rasheedhaq)
 - LinkedIn: [linkedin.com/in/rasheedabdulhaq](https://www.linkedin.com/in/rasheedabdulhaq)
 - Email: [rasheedabdulhaqkp@gmail.com](mailto:rasheedabdulhaqkp@gmail.com)
