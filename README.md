@@ -4,6 +4,15 @@ Senior Machine Learning Engineer with a PhD in Deep Learning and 8+ years of exp
 
 Currently working on industrial AI and digital twin initiatives at Chevron Engine in Bengaluru, with recent hands-on work across production computer vision, secure enterprise RAG systems, and agentic AI workflows.
 
+## Find My Work
+
+- **CV:** [Latest PDF](https://rasheedhaq.github.io/cv/latest/resume.pdf) · [Previous PDF](https://rasheedhaq.github.io/cv/previous/resume.pdf) · [Dates and sources](https://rasheedhaq.github.io/cv/)
+- **Portfolio:** [Website](https://rasheedhaq.github.io/) · [Research archive](https://rasheedhaq.github.io/research/)
+- **Applications:** [NammaOpen](https://github.com/rasheedhaq/NammaOpen) · [Arogyamitra](https://github.com/rasheedhaq/arogy_bot) · [UnShare](https://github.com/rasheedhaq/UnShare) · [VLC Playlist Manager](https://github.com/rasheedhaq/vlc-playlist-manager)
+- **Research:** [DLEVS](https://github.com/rasheedhaq/DLEVS) · [Water-quality prediction](https://github.com/rasheedhaq/Time-series-prediction-with-grid-optimiization-of-Hyperparameters)
+- **Templates:** [Patent specifications](https://github.com/rasheedhaq/Indian-Patent-Specifications-LaTeX-Template) · [Patent drawings](https://github.com/rasheedhaq/Indian-Patent-Drawings-LaTeX-Template)
+- **All public repositories by category:** [Repository map](https://github.com/rasheedhaq/rasheedhaq.github.io/blob/main/docs/github-repositories.md)
+
 ## What I Work On
 
 - Production-ready computer vision systems for industrial and agricultural applications
@@ -17,9 +26,11 @@ Currently working on industrial AI and digital twin initiatives at Chevron Engin
 ### Chevron Engine | Senior Machine Learning Engineer
 `July 2025 - Present`
 
-- Building production computer vision solutions for oil and gas use cases
-- Contributing to digital twin workflows using real-time sensor integration for monitoring and troubleshooting
-- Evaluating computer vision vendors for EHS scenarios across accuracy, latency, deployment readiness, and compliance constraints
+- Led AI/ML handover and UAT for a production drone-inspection platform
+- Designed component-segmentation and corrosion-detection workflows with Azure ML endpoint orchestration
+- Built a physics-based thermal level-estimation prototype; ground-truth validation remains pending
+- Authored annotation guidance and co-authored CV deployment standards
+- Delivered industrial safety analytics, supported edge AI testing, and contributed to technical hiring
 
 ### SONY | Lead AI/ML Engineer
 `Apr 2025 - June 2025`
@@ -45,7 +56,7 @@ Currently working on industrial AI and digital twin initiatives at Chevron Engin
 ## Earlier Career
 
 - Assistant Professor, MEA Engineering College
-- Embedded Software Engineer, Way in Electronic Solutions
+- Founder & Senior Embedded Software Engineer, Way in Electronic Solutions
 - DSP Intern, M. N. Dastur & Co. (P) Ltd.
 - Network Surveillance Engineer, Airtel
 
