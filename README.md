@@ -80,6 +80,8 @@ Currently working on industrial AI and digital twin initiatives at Chevron Engin
 
 ## Connect
 
+- Resume: [Latest PDF](https://rasheedhaq.github.io/cv/latest/resume.pdf) · [Previous PDF](https://rasheedhaq.github.io/cv/previous/resume.pdf) · [Version dates](https://rasheedhaq.github.io/cv/)
+- Explore: [Repository map](https://github.com/rasheedhaq/rasheedhaq.github.io/blob/main/docs/github-repositories.md) · [Portfolio repository tree](https://github.com/rasheedhaq/rasheedhaq.github.io#repository-tree)
 - Portfolio: [rasheedhaq.github.io](https://rasheedhaq.github.io/)
 - GitHub: [github.com/rasheedhaq](https://github.com/rasheedhaq)
 - LinkedIn: [linkedin.com/in/rasheedabdulhaq](https://www.linkedin.com/in/rasheedabdulhaq)
